@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SampleAPI_VSCode.props" />
+</Project>
